@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-F_Cu.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-B_Cu.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-F_Paste.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-B_Paste.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-F_Mask.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-B_Mask.gbr'.
+Plotted to 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\ngowt\Desktop\water quality analyer\water quality analyer-job.gbrjob'.
+Info: Done.
